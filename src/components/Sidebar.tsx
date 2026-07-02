@@ -13,7 +13,7 @@ import {
 import { useAuthStore } from '@/stores/authStore'
 
 const navItems = [
-  { to: '/', label: '总览', icon: LayoutDashboard },
+  { to: '/', label: '首页', icon: LayoutDashboard },
   { to: '/body', label: '身体', icon: Scale },
   { to: '/workout', label: '训练', icon: Dumbbell },
   { to: '/cardio', label: '有氧', icon: HeartPulse },
